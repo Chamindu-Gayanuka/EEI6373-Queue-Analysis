@@ -19,7 +19,7 @@ This project presents a **simulation and queueing analysis** of the **student at
 
 The study focuses on measuring **student waiting times**, **service durations**, **queue lengths**, and **counter utilization**, while identifying bottlenecks during peak arrival periods.
 
-The private class operates with **four class batches per day** at **09:00 AM, 11:00 AM, 01:00 PM, and 03:00 PM**. Students arrive at the entrance before each batch to have their attendance cards checked and marked.
+The private class operates with **three class batches per day** at **08:30 AM, 01:30 PM, and 04:30 PM**. Students arrive at the entrance before each batch to have their attendance cards checked and marked.
 
 ---
 
