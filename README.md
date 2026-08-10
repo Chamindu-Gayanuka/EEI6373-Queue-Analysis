@@ -74,5 +74,6 @@ The dataset includes:
 ## Files in this Repository
 
 - `722512837_EEI6373_Mini_Project_Deliverable.docx` - Mini Project Deliverable Report
+-`722512837_EEI6373_Mini_Project_Report.pdf` - Mini Project Report
 - `Queue_Dataset.csv` - Student attendance queue dataset
 - `README.md` - Project description and repository information
